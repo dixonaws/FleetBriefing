@@ -3,7 +3,7 @@ from __future__ import print_function
 import time
 import boto3
 
-# SalesBriefing, v1.0
+# FleetBriefing, v1.0
 
 def lambda_handler(event, context):
     """
